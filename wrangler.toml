@@ -10,11 +10,9 @@ custom_domain = true
 [[routes]]
 pattern = "quiz.vidio.com.sg1.alfa24.my.id" 
 custom_domain = true
-node_compat = true
-workers_dev = true
 
 [vars]
-# UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+# UUID = "31770899-0a31-42a9-85c1-bbc61070ba84"
 # PROXYIP = "1.2.3.4"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
